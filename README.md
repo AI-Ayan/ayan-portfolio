@@ -42,8 +42,8 @@ To begin my career as a Data Analyst or Machine Learning Engineer, gain industry
 ## Contact
 
 * GitHub: https://github.com/AI-Ayan
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your email address here
+* LinkedIn: https://www.linkedin.com/in/ayan-koley-582a38284?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Email: ayankoley48@gmail.com
 
 ## Portfolio Website
 
